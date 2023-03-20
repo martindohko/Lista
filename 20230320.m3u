@@ -25,16 +25,6 @@ http://131.196.194.2:8000/play/a0d1/index.m3u8
 http://190.107.25.132:8000/play/a09u
 #EXTINF:0 type="stream" channelId="-1", GOL TV
 http://131.196.194.2:8000/play/a0cg/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", HBO
-http://190.107.25.132:8000/play/a09p
-#EXTINF:0 type="stream" channelId="-1", HBO 2
-http://190.107.25.132:8000/play/a08t
-#EXTINF:0 type="stream" channelId="-1", HBO FAMILY
-http://190.107.25.132:8000/play/a08w
-#EXTINF:0 type="stream" channelId="-1", HBO Plus
-http://190.107.25.132:8000/play/a08u
-#EXTINF:0 type="stream" channelId="-1", HBO EXTREME SD
-http://190.107.25.132:8000/play/a08v
 #EXTINF:0 type="stream" channelId="-1", HISTORY CHANNEL
 http://190.107.25.132:8000/play/a086
 #EXTINF:0 type="stream" channelId="-1", NAT GEO
