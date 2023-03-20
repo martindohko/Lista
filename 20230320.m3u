@@ -19,8 +19,6 @@ http://190.107.25.132:8000/play/a09q
 http://190.107.25.132:8000/play/a094
 #EXTINF:0 type="stream" channelId="-1", DISCOVERY ID
 http://190.107.25.132:8000/play/a09j
-#EXTINF:-1,World Discovery
-http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8
 #EXTINF:0 type="stream" channelId="-1", Disney Jr
 http://131.196.194.2:8000/play/a0d1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", FX
@@ -51,5 +49,3 @@ http://131.196.194.2:8000/play/a09x/index.m3u8
 http://190.107.25.132:8000/play/a09b
 #EXTINF:0 type="stream" channelId="-1", UNIVERSAL
 http://190.107.25.132:8000/play/a088
-#EXTINF:-1,Animal Planet
-http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8
