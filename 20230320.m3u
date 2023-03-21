@@ -49,5 +49,3 @@ http://131.196.194.2:8000/play/a09x/index.m3u8
 http://190.107.25.132:8000/play/a09b
 #EXTINF:0 type="stream" channelId="-1", UNIVERSAL
 http://190.107.25.132:8000/play/a088
-#EXTINF:0 type="stream" channelId="-1", ANIME TV
-http://62.210.162.88:80/live/ES125/133708032016/1759.ts
