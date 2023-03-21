@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/small/295-2959716_america-2-logo-américa-tv.png" group-title="ARGENTINA",América HD
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/28414.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/small/295-2959716_america-2-logo-américa-tv.png" group-title="ARGENTINA",América
+http://comcdi.com:25461/live/angel01/angel01/22618.rtmp
+
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/small/295-2959716_america-2-logo-américa-tv.png" group-title="ARGENTINA",América SD
 http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1900.m3u8
 #EXTINF:0 type="stream" channelId="-1", AE Mundo
