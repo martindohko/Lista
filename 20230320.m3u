@@ -1,22 +1,26 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1", AMERICA TV SD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_360p.m3u8
+#EXTINF:0 audio-track="lat" type="stream" channelId="-1", Animal Planet
+http://168.121.46.90:4000/play/a00z/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", NAT GEO
+http://190.107.25.132:8000/play/a085
+#EXTINF:0 type="stream" channelId="-1", NICK JR
+http://190.107.25.132:8000/play/a09y
+#EXTINF:0 type="stream" channelId="-1", Discovery Channel
+http://190.107.25.132:8000/play/a094
 #EXTINF:0 type="stream" channelId="-1", AE Mundo
 http://168.121.46.90:4000/play/a02r/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", AMC HD
 http://168.121.46.90:4000/play/a06d/index.m3u8
 #EXTINF:0 type="stream" channelId="1573", AXN
 http://168.121.46.90:4000/play/a01p/index.m3u8
-#EXTINF:0 audio-track="lat" type="stream" channelId="-1", Animal Planet
-http://168.121.46.90:4000/play/a00z/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" audio-track="lat", CARTOON NETWORK
 http://190.107.25.132:8000/play/a08d
 #EXTINF:0 audio-track="lat" type="stream" channelId="-1", CINECANAL
 http://190.107.25.132:8000/play/a087
 #EXTINF:0 type="stream" channelId="-1", CINEMAX
 http://190.107.25.132:8000/play/a09q
-#EXTINF:0 type="stream" channelId="-1", Discovery Channel
-http://190.107.25.132:8000/play/a094
 #EXTINF:0 type="stream" channelId="-1", DISCOVERY ID
 http://190.107.25.132:8000/play/a09j
 #EXTINF:0 type="stream" channelId="-1", Disney Jr
@@ -27,10 +31,6 @@ http://190.107.25.132:8000/play/a09u
 http://131.196.194.2:8000/play/a0cg/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", HISTORY CHANNEL
 http://190.107.25.132:8000/play/a086
-#EXTINF:0 type="stream" channelId="-1", NAT GEO
-http://190.107.25.132:8000/play/a085
-#EXTINF:0 type="stream" channelId="-1", NICK JR
-http://190.107.25.132:8000/play/a09y
 #EXTINF:0 type="stream" channelId="-1", Nickelodeon
 http://190.107.25.132:8000/play/a084
 #EXTINF:0 type="stream" channelId="-1" logo="https://lumiere-a.akamaihd.net/v1/images/starplus-logo-1920x1080_b581da62.png", STAR CHANNEL
