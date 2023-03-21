@@ -49,10 +49,6 @@ http://131.196.194.2:8000/play/a09x/index.m3u8
 http://190.107.25.132:8000/play/a09b
 #EXTINF:0 type="stream" channelId="-1", UNIVERSAL
 http://190.107.25.132:8000/play/a088
-#EXTINF:0 type="stream" channelId="-1", Anime 24H
-http://usuarios.club/usuarios/src4/Anime24H/demoUwD/OV0.m3u8
-#EXTINF:0 type="stream" channelId="-1", SONY
-http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?
 #EXTINF:0 type="stream" channelId="-1", WARNER
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
 #EXTINF:0 type="stream" channelId="-1", DKNLM
