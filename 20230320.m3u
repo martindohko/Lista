@@ -50,43 +50,43 @@ http://190.107.25.132:8000/play/a09b
 #EXTINF:0 type="stream" channelId="-1", UNIVERSAL
 http://190.107.25.132:8000/play/a088
 
-#EXTINF:0,FOX 1
+#EXTINF:0 type="stream" channelId="-1",FOX 1
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
-#EXTINF:0,FOX ACTION 
+#EXTINF:0 type="stream" channelId="-1",FOX ACTION 
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
-#EXTINF:0,FOX MOVIES 
+#EXTINF:0 type="stream" channelId="-1",FOX MOVIES 
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
-#EXTINF:0,FOX CINEMA
+#EXTINF:0 type="stream" channelId="-1",FOX CINEMA
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
-#EXTINF:0,FOX CLASSIC
+#EXTINF:0 type="stream" channelId="-1",FOX CLASSIC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8
-#EXTINF:0,SONY
+#EXTINF:0 type="stream" channelId="-1",SONY
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
-#EXTINF:0,WARNER 
+#EXTINF:0 type="stream" channelId="-1",WARNER 
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
-#EXTINF:0,UNIVERSAL 
+#EXTINF:0 type="stream" channelId="-1",UNIVERSAL 
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
-#EXTINF:0,FX 
+#EXTINF:0 type="stream" channelId="-1",FX 
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
-#EXTINF:0,AXN 
+#EXTINF:0 type="stream" channelId="-1",AXN 
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8
-#EXTINF:0,FOX
+#EXTINF:0 type="stream" channelId="-1",FOX
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE03.m3u8
-#EXTINF:0,UNIVERSAL
+#EXTINF:0 type="stream" channelId="-1",UNIVERSAL
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE03.m3u8
-#EXTINF:0,SYFY
+#EXTINF:0 type="stream" channelId="-1",SYFY
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE03.m3u8
-#EXTINF:0,FX
+#EXTINF:0 type="stream" channelId="-1",FX
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL258/PROFILE03.m3u8
-#EXTINF:0,ID
+#EXTINF:0 type="stream" channelId="-1",ID
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8
-#EXTINF:0,TNT
+#EXTINF:0 type="stream" channelId="-1",TNT
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
-#EXTINF:0,TNT SERIES
+#EXTINF:0 type="stream" channelId="-1",TNT SERIES
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
-#EXTINF:0,FOXLIFE
+#EXTINF: type="stream" channelId="-1"0,FOXLIFE
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE03.m3u8
-#EXTINF:0,TBS
+#EXTINF:0 type="stream" channelId="-1",TBS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
 #EXTINF:0,AZCINEMA
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8
