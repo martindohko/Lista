@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", AMERICA TV SD
-http://ift.tt/1FcC12M.http://ift.tt/1GzGilgplaylist.m3u8
+#EXTINF:0 type="stream" channelId="-1", CANAL 10
+https://list.iptvcat.com/my_list/s/24eb9ddcd44adb2a97718d5d42f0fbfa.m3u8
 #EXTINF:0 type="stream" channelId="-1", AE Mundo
 http://168.121.46.90:4000/play/a02r/index.m3u8
 #EXTINF:0 type="stream" channelId="2501", AMC HD
