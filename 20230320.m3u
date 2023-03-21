@@ -15,7 +15,7 @@ http://168.121.46.90:4000/play/a02r/index.m3u8
 http://168.121.46.90:4000/play/a06d/index.m3u8
 #EXTINF:0 type="stream" channelId="1573", AXN
 http://168.121.46.90:4000/play/a01p/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" audio-track="lat" tvg-language="Spanish", CARTOON NETWORK
+#EXTINF:0 type="stream" channelId="-1" tvg-language="Spanish", CARTOON NETWORK
 http://190.107.25.132:8000/play/a08d
 #EXTINF:0 audio-track="lat" type="stream" channelId="-1", CINECANAL
 http://190.107.25.132:8000/play/a087
