@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/small/295-2959716_america-2-logo-américa-tv.png" group-title="ARGENTINA",América SD
+http://iptvparatodos.net:38953/live/yv83qjBhM7/FtpQEmfOMs/1900.m3u8
 #EXTINF:0 type="stream" channelId="-1", AE Mundo
 http://168.121.46.90:4000/play/a02r/index.m3u8
 #EXTINF:0 type="stream" channelId="2501", AMC HD
