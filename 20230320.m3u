@@ -1,44 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="construirtv" tvg-name="contruirtv" tvg-logo="https://4.bp.blogspot.com/-bxxrOlAm8Xc/VyoWxpAFUjI/AAAAAAAAEkk/IDr2cf3F-0cA9E_zfTAzXOOz4w24DerJgCLcB/s640/construirtv.jpg",Construir
-http://132.255.200.250:80/hls/master-Construir.m3u8
-#EXTINF:-1 tvg-id="CineAR" tvg-name="CineAR" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58e1c726145ef_tv-copia.png.2466ef10c217915851b2364e48f9e079.png",CineAR
-http://132.255.200.250:80/hls/master-CineAR.m3u8
-#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="http://d2445imzl4t8r9.cloudfront.net/images/C5N-5d249092f8fd95447a5c187ea59acbad.png",C5N
-http://132.255.200.250/hls/master-C5N.m3u8
-#EXTINF:-1 tvg-id="C26" tvg-name="C26" tvg-logo="https://1.bp.blogspot.com/-Q6R4wRPG6Ck/VwGsKdHqsyI/AAAAAAABBrI/QQX1GvehWCkncuSgySKLgXVhqWEEP7s2A/s1600/Canal%2B26.jpg",C26
-http://132.255.200.250:80/hls/master-C26.m3u8
-#EXTINF:-1 tvg-id="CronicaTV" tvg-name="CronicaTV" tvg-logo="http://2.bp.blogspot.com/_zQntujzF-DA/SiaUOkDnNfI/AAAAAAAADtQ/6-XPZtBdhfw/w1200-h630-p-k-no-nu/cronicatv_2008.jpg",CronicaTV
-http://132.255.200.250:80/hls/master-CronicaTV.m3u8
-#EXTINF:-1 tvg-id="TVP" tvg-name="TVP" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/tvp.jpg",TV Publica
-http://132.255.200.250/hls/master-TVP.m3u8
-#EXTINF:-1 tvg-id="Canal 9" tvg-name="Canal 9" tvg-logo="http://television.com.ar/wp-content/uploads/2016/12/elnuevenuevo.jpg",Canal 9
-http://132.255.200.250:80/hls/master-Canal9HD.m3u8
-#EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13" tvg-logo="https://4.bp.blogspot.com/-Ey9DWylpf-g/WO6Vv1WldtI/AAAAAAAAAUs/jd4JiuELNcIO7lcb_SvBL-eXbOsEDxivACLcB/s320/13CANAL.png",Canal 13
-http://132.255.200.250:80/hls/master-Canal13.m3u8
-#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="http://www.lanoticiawebciudad.com.ar/wp-content/uploads/2016/11/telefe-logo.jpg",Telefe
-http://132.255.200.250:80/hls/master-Telefe.m3u8
-#EXTINF:-1 tvg-id="America" tvg-name="America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/1200px-Americatvlogo2015.svg.png",America
-http://132.255.200.250:80/hls/master-America.m3u8
-#EXTINF:-1 tvg-id="Deportv" tvg-name="Deportv" tvg-logo="http://www.clubtalleres.com.ar/wp-content/uploads/2015/10/dxtv-650x400.jpg",DeporTV
-http://132.255.200.250:80/hls/master-Deportv.m3u8
-#EXTINF:-1 tvg-id="France TV" tvg-name="France TV" tvg-logo="https://www.france.tv/images/Place_Holder_Web_800X800.png",FranceTV
-http://132.255.200.250:80/hls/master-FranceTV.m3u8
-#EXTINF:-1 tvg-id="G360" tvg-name="G360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_360.png",G360
-http://132.255.200.250:80/hls/master-G360.m3u8
-#EXTINF:-1 tvg-id="Encuentro" tvg-name="Encuentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_canal_encuentro_2016.png",ENCUENTRO
-http://132.255.200.250/hls/master-Encuentro.m3u8
-#EXTINF:-1 tvg-id="CN23" tvg-name="CN23" tvg-logo="http://television.com.ar/wp-content/uploads/2017/07/cn23.jpg",CN23
-http://132.255.200.250/hls/master-CN23.m3u8
-#EXTINF:-1 tvg-id="A24" tvg-name="A24" tvg-logo="logos.wikia.com/wiki/File:Logo_a24.jpg",A24
-http://132.255.200.250/hls/master-A24.m3u8
-#EXTINF:-1 tvg-id="LN+" tvg-name="LN+" tvg-logo="http://www.dossiernet.com.ar/assets/uploads/images/lanacionmas1.jpg",LN+
-http://132.255.200.250:80/hls/master-LN.m3u8
-#EXTINF:-1 tvg-id="PAKAPAKA" tvg-name="PAKAPAKA" tvg-logo="http://www.canal12misiones.com/media/k2/items/cache/0243cbf1978673fe443d7558de6ab4f0_XL.jpg",PAKAPAKA
-http://132.255.200.250/hls/master-PakaPaka.m3u8
-#EXTINF:-1 tvg-id="Telemax" tvg-name="Telemax" tvg-logo="http://www.diario26.com/images/telemax_poster.png",Telemax
-http://132.255.200.250:80/hls/master-Telemax.m3u8
-#EXTINF:-1 tvg-id="TECTV" tvg-name="TECTV" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1164_2_22121.png",TECTV
-http://132.255.200.250:80/hls/master-TECTV.m3u8
 #EXTINF:0 type="stream" channelId="-1", AE Mundo
 http://168.121.46.90:4000/play/a02r/index.m3u8
 #EXTINF:0 type="stream" channelId="2501", AMC HD
