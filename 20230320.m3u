@@ -23,7 +23,7 @@ http://190.107.25.132:8000/play/a087
 http://190.107.25.132:8000/play/a09q
 #EXTINF:0 type="stream" channelId="-1", DISCOVERY ID
 http://190.107.25.132:8000/play/a09j
-#EXTINF:0 type="stream" channelId="-1", DisneyJr
+#EXTINF:0 type="stream" channelId="-1", DISNEY JUNIOR
 http://131.196.194.2:8000/play/a0d1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", FX
 http://190.107.25.132:8000/play/a09u
