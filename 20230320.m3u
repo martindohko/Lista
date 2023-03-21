@@ -3,7 +3,7 @@
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_360p.m3u8
 #EXTINF:0 type="stream" channelId="-1" audio-track="lat", Animal Planet
 http://168.121.46.90:4000/play/a00z/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", NAT GEO
+#EXTINF:0 type="stream" channelId="-1" audio-track="lat", NAT GEO
 http://190.107.25.132:8000/play/a085
 #EXTINF:0 type="stream" channelId="-1", NICK JR
 http://190.107.25.132:8000/play/a09y
