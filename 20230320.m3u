@@ -51,3 +51,29 @@ http://190.107.25.132:8000/play/a09b
 http://190.107.25.132:8000/play/a088
 #EXTINF:0 type="stream" channelId="-1", Anime 24H
 http://usuarios.club/usuarios/src4/Anime24H/demoUwD/OV0.m3u8
+#EXTINF:0 type="stream" channelId="-1", SONY
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?
+#EXTINF:0 type="stream" channelId="-1", WARNER
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+#EXTINF:0 type="stream" channelId="-1", DKNLM
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
+#EXTINF:0 type="stream" channelId="-1", DISNJMX
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+#EXTINF:0 type="stream" channelId="-1", DISNXD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+#EXTINF:0 type="stream" channelId="-1", DISNEY
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+#EXTINF:0 type="stream" channelId="-1", NICKJLM
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+#EXTINF:0 type="stream" channelId="-1", NIKLAHD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+#EXTINF:0 type="stream" channelId="-1", TOONS
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+#EXTINF:0 type="stream" channelId="-1", TOONCST
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
+#EXTINF:0 type="stream" channelId="-1", TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
+#EXTINF:0 type="stream" channelId="-1", CBEETV
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
+#EXTINF:0 type="stream" channelId="-1", BOOMLM
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
